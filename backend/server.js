@@ -8,7 +8,7 @@ app.use(cors());
 const dbConfig = {
   host: "mysql",
   user: "root",
-  password: "root",
+  password: "",
   database: "appdb"
 };
 

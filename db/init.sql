@@ -8,6 +8,6 @@ CREATE TABLE IF NOT EXISTS users (
 );
 
 INSERT INTO users (name) VALUES
-('Vishal'),
+('Ateeq'),
 ('Rajesh'),
 ('DevOps Engineer');
